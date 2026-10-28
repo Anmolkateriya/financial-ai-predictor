@@ -1,0 +1,9 @@
+streamlit
+transformers
+huggingface_hub
+yfinance
+xgboost
+scikit-learn
+torch
+pandas
+numpy
